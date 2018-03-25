@@ -13,8 +13,8 @@ Awardcrypto Tokens
 * 25 Confirms
 * 5 Tokens Per Block
 * Maximum of 120000000 Tokens
-* Default P2P Port: 7372
-* Default RPC Port: 7373
+* Default P2P Port: 19682
+* Default RPC Port: 57572
 * Dynamically Loadable Wallets 
 * Updated Coin Control
 * Easy Accessible Peer, Stake, and Block information
