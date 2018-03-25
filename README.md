@@ -1,4 +1,4 @@
-HoboNickels Crypto Tokens
+Awardcrypto Tokens
 
 * Staking:
   * 100% Max Yearly Stake Reward
